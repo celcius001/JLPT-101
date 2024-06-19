@@ -3,6 +3,7 @@ konnichiwa - Hello.
 こんにちは
 
 The people are saying, "Hello."
+（　ひとびとがこにちはといっている　）
 ex: 人々がこんにちはと言っている　- Hitobito ga konnichiwa to itte iru
 
 2.
@@ -17,34 +18,42 @@ gomen nasai - I'm sorry.
 ごめんなさい。
 
 Sorry, I can't go with you.
+（　いっしょにいけなくて、ごめんなさい　）
 ex: 一緒に行けなくて、ごめんなさい - Issho ni ikenakute, gomen nasai
 
 4.
 oyasuminasai - Good night.
+（　おやすみなさい　）
 お休みなさい
 
 Good night, Mr. Kurokawa.
+（　くろわーせんせい、おやすみなさい　）
 ex: 黒川先生、お休みなさい。- Kurokwa-sensei, oyasuminasai 
 
 5.
 hajimemashite - Nice to meed you.
-初めまして
+（　はじめまして　）
+初めまして　
 
 Mr. Abe, nice to meet you. I'm Tashiro.
+（あべさん、はじめましてたしろともうします　）
 ex: 阿部さん、初めまして。田代と申します。- Abe-san, hajimemashite. Tashiro to moushimasu.
 
 6.
 o-genki desu ka - How are you?
+（　おげんきですか　）
 お元気ですか
 
 Hello, Matsushima. How are you?
-ex: こんにちは、松島さん、お元気ですか。- Konnichiwa, Matsushima-san, o-genki desu ka.
+（　こんにちは、まつしまさん、おげんきですか　）
+ex: こんにちは、松島さん、お元気ですか。- Konnichi　wa, Matsushima-san, o-genki desu ka.
 
 7.
 hai - Yes
 はい
 
 Yes, this is mine.
+（　はい、これはわしのです　）
 ex: はい、これは私のです。- Hai, kore wa watashi no desu.
 
 8.
@@ -52,47 +61,112 @@ iie - No
 いいえ
 
 No, I didn't steal it.
+（ いいえ、わたしはぬすんでいません　）　
 ex: いいえ、私は盗んでいません。- iie, watashi wa nusunde imasen.
 
 9.
 arigatou - Thank you.
+（　ありがとう　）
 ありがおう
 
 Thank you, but I don't order this.
+（　ありがとう。でも、わたしはこれおちゅもんしていません　）
 ex: ありがおう。でも、私はこれお注文していますん。- arigatou. demo, watashi wa kore o chumon shite imasen.
 
 10. 
 watashi wa _ desu - I'm _
+（　わたしは＿です　）
 私は＿です
 
 I'm Kelvin.
+（　わたしはケルビンです　）
 ex: 私はケルビンです。 - watashi wa kerubin desu.
 
 11.
 sayounara - Goodbye.
+（　さよなら　）
 さようなら
 
 Goodbye, I'll see you tomorrow.
+（　さよなら、またあしたあいましょう　）
 ex: さようなら、また明日会いましょう！- sayounara, mata ashita aimashou!
 
 12.
 warui - Bad
+（　わるい　）
 悪い
 
 The weather is bad.
+（　てんきがわるい　）
 ex: 天気が悪い　- tenki ga warui
 
 13. 
 ii / yoi
+（　いい・やお　）
 良い - Good
 
 Vegetables are good for you.
+（　やさいはからだにいいです　）
 ex: 野菜は体に良いです。- Yasai wa karada ni ii desu.
 
 14.
 kirei - pretty
+（　きれい　）
+きれい
 
+The cherry blossoms are pretty, aren't they?
+（　さくらがきれいだね　）
+ex: 桜がきれいだね。- Sakura ga kirei da ne.
 
+15. 
+minikui - ugly
+（　みにくい　）
+醜い
 
+Ugly face.
+（　みにくいかお　）
+ex: 醜い顔文字　- minikui kao
 
+16.
+kantan　- easy
+（　かんたん　）
+簡単
 
+Easy exam.
+（　かんたんなしけん　）
+ex: 簡単な試験　- kantan na shiken
+
+17.
+muzukashii - difficult
+（　むずかしい　）
+難しい
+
+Difficult job
+（　むずかしいしごと　）
+ex: 難しい仕事 - muzukashii shigoto
+
+18. 
+chikai - near
+（　ちかい　）
+近い
+
+My School is near the hospital.
+（　わたしのがっこうはびょういんのちかくにある　）
+ex: 私の学校は病院の近くににある。- watashi no gakkou wa byouin no chikaku ni aru.
+
+19.
+toui - far
+遠い
+
+The woman is looking at the somthing far away.
+（　女性は、遠い何かおみている　）
+ex: 女性は、遠い何かを見ている。- josei wa, tooi nani ka o mite iru.
+
+20.
+chiisai - small
+（　ちいさい　）
+小さい
+
+This car is small.
+（　このくるまはちいさいです　）
+ex: この車は小さいです。- kono kuruma wa chiisai desu.
